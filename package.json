@@ -1,0 +1,12 @@
+{
+  "name"         : "News-nerds-fantasy-scraper",
+  "version"      : "0.0.1",
+  "description"  : "Pull down the weekly lineups, teams and points for each team in the News Nerds BPL fantasy league",
+  "main"         : "server.js",
+  "author"       : "Lucas Timmons",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
